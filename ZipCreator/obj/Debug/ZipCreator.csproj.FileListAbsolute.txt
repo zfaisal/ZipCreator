@@ -1,0 +1,12 @@
+c:\users\zfaisal\Documents\Visual Studio 2015\Projects\ZipCreator\ZipCreator\bin\Debug\ZipCreator.exe.config
+C:\PCRDev\ZipCreator\ZipCreator\bin\Debug\ZipCreator.exe.config
+C:\PCRDev\ZipCreator\ZipCreator\bin\Debug\ZipCreator.exe
+C:\PCRDev\ZipCreator\ZipCreator\bin\Debug\ZipCreator.pdb
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.csprojResolveAssemblyReference.cache
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.Form1.resources
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.Properties.Resources.resources
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.csproj.GenerateResource.Cache
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.exe
+C:\PCRDev\ZipCreator\ZipCreator\obj\Debug\ZipCreator.pdb
+C:\PCRDev\ZipCreator\ZipCreator\bin\Debug\DotNetZip.dll
+C:\PCRDev\ZipCreator\ZipCreator\bin\Debug\DotNetZip.xml
